@@ -3,7 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     <content>
-        <Text xmlns="sap.m" text="This is Incident-Management version 1d" id="text2"/>
+        <Text xmlns="sap.m" text="This is Incident-Management version 1e" id="text2"/>
     </content>    
     </Page>
 </mvc:View>
